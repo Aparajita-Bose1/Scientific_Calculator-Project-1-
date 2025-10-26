@@ -1,1 +1,1 @@
-# Scientific_Calculator Project-1
+# Scientific_Calculator (Project-1)
